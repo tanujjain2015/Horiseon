@@ -1,3 +1,10 @@
+/*
+Modified By: Tanuj Jain
+Dated: Mar-13-2020
+Last Change: Accessibility and Code Optimization. Please refer comment section for changes done.
+             Please note: Code fix will have comment on top of it which starts with "Change:" keyword. 
+*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -95,7 +102,7 @@ p {
     color: #ffffff;
 }
 
-/* Disable benefit-lead, benefit-brand, benefit-cost*/
+/* Change: Disable benefit-lead, benefit-brand, benefit-cost*/
 /*
 .benefit-lead {
     margin-bottom: 32px;
@@ -113,13 +120,14 @@ p {
 }
 */
 
-/*Change: Invoke "benefit h3" instead of benefit-lead, benefit-brand, benefit-cost*/
+/*Change: Disable reduntant code for benefit-lead, benefit-brand, benefit-cost*/
 
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*Change: Disable reduntant code for benefit-lead, benefit-brand, benefit-cost*/
 /*
 .benefit-lead h3 {
     margin-bottom: 10px;
@@ -145,6 +153,7 @@ p {
     max-width: 150px;
 }
 
+/*Change: Disable reduntant code for benefit-lead, benefit-brand, benefit-cost*/
 /*
 .benefit-lead img {
     display: block;
@@ -175,7 +184,7 @@ p {
     color: #ffffff;
 }
 
-/* Disable search-engine-optimization,online-reputation-management, social-media-marketing*/
+/* Change: Disable reduntant code for search-engine-optimization,online-reputation-management, social-media-marketing*/
 /*
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -205,11 +214,12 @@ p {
 }
 */
 
-/*Change: Invoke "content-classify img"  instead of three seperate class search-engine-optimization,online-reputation-management, social-media-marketing*/
+/* Change: Invoke "content-classify img"  instead of three seperate class search-engine-optimization,online-reputation-management, social-media-marketing*/
 .content-classify img{
     max-height: 200px;
 }
 
+/* Change: Disable reduntant code for search-engine-optimization,online-reputation-management, social-media-marketing*/
 /*
 .search-engine-optimization img {
     max-height: 200px;
@@ -224,12 +234,14 @@ p {
 }
 */
 
-/*Change: Invoke "content-classify h2"  instead of three seperate class search-engine-optimization,online-reputation-management, social-media-marketing*/
+/* Change: Invoke "content-classify h2"  instead of three seperate class search-engine-optimization,online-reputation-management, social-media-marketing*/
 .content-classify h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+
+/* Change: Disable reduntant code for search-engine-optimization,online-reputation-management, social-media-marketing*/
 /*
 .search-engine-optimization h2 {
     margin-bottom: 20px;
