@@ -3,14 +3,24 @@
 
 Author: Tanuj Jain
 Dated: Mar-13-2020
-Version: 1.1
+Version: 1.3
 
 Description:
 
 Horiseon is an Search Engine Optimization, Online Reputation Management and Social Media Marketing tool which enables Organization to increase their online Brand awareness through effective lead generation strategies with minimal cost overhead. 
 
+Website Access URL:
+https://tanujjain2015.github.io/Horiseon/
+
 Change Log: 
 
+V1.3:
+1. Provide website access URL in README.md
+
+V1.2:
+1. Fix README for spelling mistakes
+
+V1.1: 
 This version provides accessibility support and code optimization for better code management. Here are list of changes:  
 
 Accessibility: 
