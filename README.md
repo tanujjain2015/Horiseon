@@ -3,7 +3,7 @@
 
 Author: Tanuj Jain
 Dated: Mar-13-2020
-Version: 1.4
+Version: 1.6
 
 Description:
 
@@ -12,7 +12,10 @@ Horiseon is an Search Engine Optimization, Online Reputation Management and Soci
 Website Access URL:
 https://tanujjain2015.github.io/Horiseon/
 
-Change Log: 
+Change Log:
+
+V1.6:
+1. Fix Copyright to 2020.
 
 V1.5:
 1. Fix ReadMe File.
