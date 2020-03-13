@@ -7,7 +7,7 @@ Version: 1.1
 
 Description:
 
-Horiseon is an Search Engine Optimization, Online Reputation Management and Social Media Marketing tool which enables Organization to increase their online Brand awareness through effectve lead generation strategies with minimal cost overhead. 
+Horiseon is an Search Engine Optimization, Online Reputation Management and Social Media Marketing tool which enables Organization to increase their online Brand awareness through effective lead generation strategies with minimal cost overhead. 
 
 Change Log: 
 
@@ -22,8 +22,7 @@ Accessibility:
 6.  Use common class in Benefit section
 7.  Use common class in Content Section
 8.  Provide redeable description in image Element.
-9.  Fixed broken Search Optimzation Navaigation Link.
-10.     
+9.  Fixed broken Search Optimzation Navaigation Link. 
 
 Code Optimization:
 1. Removed reduntant classes for better code management. 
