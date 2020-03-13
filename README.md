@@ -14,14 +14,17 @@ https://tanujjain2015.github.io/Horiseon/
 
 Change Log: 
 
+V1.5:
+1. Fix ReadMe File.
+
 V1.4:
 1. Fix Read Me file. 
 
 V1.3:
-1. Provide website access URL in README.md
+1. Provide website access URL in README.md.
 
 V1.2:
-1. Fix README for spelling mistakes
+1. Fix README for spelling mistakes.
 
 V1.1: 
 This version provides accessibility support and code optimization for better code management. Here are list of high level changes performed:  
@@ -38,6 +41,6 @@ Accessibility:
 9.  Fix broken Search Optimization Navigation Link. 
 
 Code Optimization:
-1. Removed reduntant classes for better code management. 
+1. Removed redundant classes for better code management. 
 2. Moved code to root directory in order to display in github.
 
